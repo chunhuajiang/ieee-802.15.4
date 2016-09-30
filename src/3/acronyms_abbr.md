@@ -1,48 +1,48 @@
-# 3.2 ËõÂÔÓïºÍ¼òĞ´ 
+# 3.2 ç¼©ç•¥è¯­å’Œç®€å†™ 
 
-¼òĞ´ | È«³Æ|ÖĞÎÄ
+ç®€å†™ | å…¨ç§°|ä¸­æ–‡
 ----------- |:----------------| ------------------
-AES		|advanced encryption standard | ¸ß¼¶¼ÓÃÜ±ê×¼
-ASK		| amplitude shift keying| Õñ·ù¼ü¿Ø
-AWGN	| additive white Gaussian noise|¼ÓĞÔ¸ßË¹°×ÔëÉù
-AWN		| affected wireless network|ÊÜ¸ÉÈÅÎŞÏßÍøÂç
-BE		| backoff exponent| ÍË±ÜÖ¸Êı
-BER		| bit error rate| ±ÈÌØÎóÂëÂÊ
-BI 		|beacon interval| ĞÅ±ê¼ä¸ô
-BLE		| battery life extension|µç³ØÊÙÃüÑÓÊ±
-BO 		|beacon order| ĞÅ±êË³Ğò
-BPSK	| binary phase-shift keying|¶ş½øÖÆÏàÒÆ¼ü¿Ø
-BSN 	|beacon sequence number| ĞÅ±êĞòÁĞºÅ
-CAP 	|contention access period| ¾ºÕù½ÓÈë½×¶Î
-CBC-MAC |cipher block chaining message authentication code|·Ö¿é¼ÓÃÜ·¨³ÉÁ´ĞÅÏ¢Ö¤Ã÷ÃÜÂë
-CCA 	|clear channel assessment| ¿ÕÏĞĞÅµÀ¼ì²â
-CCM 	|counter with CBC-MAC (mode of operation)|´øÓĞ CBC-MAC (ÔËĞĞÄ£Ê½)µÄ¼ÆÊıÆ÷
-CCM* 	|extension of CCM|CCM ÑÓÉì
-CFP 	|contention-free period| Ãâ¾ºÕù½×¶Î
-CRC 	|cyclic redundancy check| Ñ­»·ÈßÓà¼ì²é
-CSMA-CA	| carrier sense multiple access with collision avoidance| ÔØ²¨ÕìÌı¶àÂ··ÃÎÊ/³åÍ»±ÜÃâ
-CTR 	|counter mode|¼ÆÊıÆ÷Ä£Ê½
-CW 		|contention window (length)|¾ºÕù´°¿Ú(³¤¶È)
-DSN 	|data sequence number| Êı¾İĞòÁĞºÅ
-DSSS 	|direct sequence spread spectrum|Ö±½ÓĞòÁĞÀ©Æµ
-ED 		|energy detection| ÄÜÔ´¼à²â
-EIRP	| effective isotropic radiated power|ÓĞĞ§È«Ïò·øÉä¹¦ÂÊ
-EMC 	|electromagnetic compatibility|µç´Å¼æÈİĞÔ
-ERP 	|effective radiated power|ÓĞĞ§·øÉä¹¦ÂÊ
-EVM 	|error-vector magnitude|Îó²îÏòÁ¿
-FCS 	|frame check sequence| Ö¡¼ì²éĞòÁĞ
-FFD 	|full-function device| È«¹¦ÄÜÉè±¸
-FH 	|frequency hopping|ÌøÆµ
-FHSS 	|frequency hopping spread spectrum|ÌøÆµÀ©Æµ
-GTS 	|guaranteed time slot| ±£»¤Ê±Ï¶
-IFS 	|interframe space or spacing|Ö¡¼ä¸ô
-ISM 	|industrial, scientific, and medical|¹¤Òµ¡¢¿Æ¼¼¡¢Ò½Ñ§
-IUT 	|implementation under test|ÊÔÑé½×¶Î
-IWN 	|interfering wireless network|¸ÉÈÅÎŞÏßÍøÂç
-LIFS	| long interframe spacing|³¤Ö¡¼ä¸ô
-LLC 	|logical link control| Âß¼­Á´Â·¿ØÖÆ
-LQI 	|link quality indication| Á´Â·ÖÊÁ¿Ö¸Ê¾
-LPDU 	|LLC protocol data unit| LLC Ğ­ÒéÊı¾İµ¥Ôª
-LR-WPAN |low-rate wireless personal area network| µÍËÙÎŞÏß¸öÓòÍø
-LSB		| least significant bit| ×îµÍÓĞĞ§Î»
-MAC		| medium access control| Ã½Ìå·ÃÎÊ¿ØÖÆ
+AES		|advanced encryption standard | é«˜çº§åŠ å¯†æ ‡å‡†
+ASK		| amplitude shift keying| æŒ¯å¹…é”®æ§
+AWGN	| additive white Gaussian noise|åŠ æ€§é«˜æ–¯ç™½å™ªå£°
+AWN		| affected wireless network|å—å¹²æ‰°æ— çº¿ç½‘ç»œ
+BE		| backoff exponent| é€€é¿æŒ‡æ•°
+BER		| bit error rate| æ¯”ç‰¹è¯¯ç ç‡
+BI 		|beacon interval| ä¿¡æ ‡é—´éš”
+BLE		| battery life extension|ç”µæ± å¯¿å‘½å»¶æ—¶
+BO 		|beacon order| ä¿¡æ ‡é¡ºåº
+BPSK	| binary phase-shift keying|äºŒè¿›åˆ¶ç›¸ç§»é”®æ§
+BSN 	|beacon sequence number| ä¿¡æ ‡åºåˆ—å·
+CAP 	|contention access period| ç«äº‰æ¥å…¥é˜¶æ®µ
+CBC-MAC |cipher block chaining message authentication code|åˆ†å—åŠ å¯†æ³•æˆé“¾ä¿¡æ¯è¯æ˜å¯†ç 
+CCA 	|clear channel assessment| ç©ºé—²ä¿¡é“æ£€æµ‹
+CCM 	|counter with CBC-MAC (mode of operation)|å¸¦æœ‰ CBC-MAC (è¿è¡Œæ¨¡å¼)çš„è®¡æ•°å™¨
+CCM* 	|extension of CCM|CCM å»¶ä¼¸
+CFP 	|contention-free period| å…ç«äº‰é˜¶æ®µ
+CRC 	|cyclic redundancy check| å¾ªç¯å†—ä½™æ£€æŸ¥
+CSMA-CA	| carrier sense multiple access with collision avoidance| è½½æ³¢ä¾¦å¬å¤šè·¯è®¿é—®/å†²çªé¿å…
+CTR 	|counter mode|è®¡æ•°å™¨æ¨¡å¼
+CW 		|contention window (length)|ç«äº‰çª—å£(é•¿åº¦)
+DSN 	|data sequence number| æ•°æ®åºåˆ—å·
+DSSS 	|direct sequence spread spectrum|ç›´æ¥åºåˆ—æ‰©é¢‘
+ED 		|energy detection| èƒ½æºç›‘æµ‹
+EIRP	| effective isotropic radiated power|æœ‰æ•ˆå…¨å‘è¾å°„åŠŸç‡
+EMC 	|electromagnetic compatibility|ç”µç£å…¼å®¹æ€§
+ERP 	|effective radiated power|æœ‰æ•ˆè¾å°„åŠŸç‡
+EVM 	|error-vector magnitude|è¯¯å·®å‘é‡
+FCS 	|frame check sequence| å¸§æ£€æŸ¥åºåˆ—
+FFD 	|full-function device| å…¨åŠŸèƒ½è®¾å¤‡
+FH 	|frequency hopping|è·³é¢‘
+FHSS 	|frequency hopping spread spectrum|è·³é¢‘æ‰©é¢‘
+GTS 	|guaranteed time slot| ä¿æŠ¤æ—¶éš™
+IFS 	|interframe space or spacing|å¸§é—´éš”
+ISM 	|industrial, scientific, and medical|å·¥ä¸šã€ç§‘æŠ€ã€åŒ»å­¦
+IUT 	|implementation under test|è¯•éªŒé˜¶æ®µ
+IWN 	|interfering wireless network|å¹²æ‰°æ— çº¿ç½‘ç»œ
+LIFS	| long interframe spacing|é•¿å¸§é—´éš”
+LLC 	|logical link control| é€»è¾‘é“¾è·¯æ§åˆ¶
+LQI 	|link quality indication| é“¾è·¯è´¨é‡æŒ‡ç¤º
+LPDU 	|LLC protocol data unit| LLC åè®®æ•°æ®å•å…ƒ
+LR-WPAN |low-rate wireless personal area network| ä½é€Ÿæ— çº¿ä¸ªåŸŸç½‘
+LSB		| least significant bit| æœ€ä½æœ‰æ•ˆä½
+MAC		| medium access control| åª’ä½“è®¿é—®æ§åˆ¶

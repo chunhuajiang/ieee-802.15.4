@@ -1,7 +1,8 @@
-# 2. ╡н©╪ндов
 
-║║║║╠Юп╢╠╬нд╣╣й╧сцакобцФ╣дуБп╘╠ь╡╩©ииы╣д╡н©╪нд╣╣║ё╤тсзспй╠╪Д©и©╪╣дндовё╛ж╩п╢ак╟Ф╠╬╨е║ё╤тсзц╩спй╠╪Д©и©╪╣дндовё╛й╧сц╡н©╪нд╣╣╣двНпб╟Ф╠╬(╟Эю╗хн╨н╦диф╨мпё╤т)║ё
+# 2. Е▐┌Х─┐Ф√┤Г▄╝
 
-║║║║FIPS Pub 197, Advanced Encryption Standard (AES)║ё 
+Ц──Ц──Г╪√Е├≥Ф°╛Ф√┤Ф║ёД╫©Г■╗Д╨├Д╦▀И²╒Г └Х©≥Д╨⌡Е©┘Д╦█Е▐╞Е╟▒Г └Е▐┌Х─┐Ф√┤Ф║ёЦ─┌Е╞╧Д╨▌Ф°┴Ф≈╤И≈╢Е▐╞Х─┐Г └Ф√┤Г▄╝О╪▄Е▐╙Е├≥Д╨├Г┴┬Ф°╛Е▐╥Ц─┌Е╞╧Д╨▌Ф╡║Ф°┴Ф≈╤И≈╢Е▐╞Х─┐Г └Ф√┤Г▄╝О╪▄Д╫©Г■╗Е▐┌Х─┐Ф√┤Ф║ёГ └Ф°─Ф√╟Г┴┬Ф°╛(Е▄┘Ф▀╛Д╩╩Д╫∙Ф■╧Е√└Е▓▄Ф═║Е╞╧)Ц─┌
 
-║║║║NITS/CWPAN Part 15.4, Chinese standard for the Wireless Medium Access Control (MAC) and the Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area Networks, GB/T 15629.15-2010.
+Ц──Ц──FIPS Pub 197, Advanced Encryption Standard (AES)Ц─┌ 
+
+Ц──Ц──NITS/CWPAN Part 15.4, Chinese standard for the Wireless Medium Access Control (MAC) and the Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area Networks, GB/T 15629.15-2010.

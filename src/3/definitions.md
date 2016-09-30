@@ -1,64 +1,64 @@
-# 3. ¶¨Òå¡¢ËõÂÔÓïºÍ¼òÐ´
-## 3.1 ¶¨Òå 
-¡¡¡¡ÎªÁËÍê³É±¾±ê×¼£¬Ê¹ÓÃÁËÒÔÏÂµÄÊõÓïºÍ¶¨Òå¡£Ã»ÓÐÔÚÏÂÃæ¶¨ÒåµÄÆäËüÊõÓï¿ÉÒÔÔÚ *The Authoritative Dictionary of IEEE Standards Terms* µÚÆß°æ [B3].4 ÖÐÕÒµ½¡£
+# 3. å®šä¹‰ã€ç¼©ç•¥è¯­å’Œç®€å†™
+## 3.1 å®šä¹‰ 
+ã€€ã€€ä¸ºäº†å®Œæˆæœ¬æ ‡å‡†ï¼Œä½¿ç”¨äº†ä»¥ä¸‹çš„æœ¯è¯­å’Œå®šä¹‰ã€‚æ²¡æœ‰åœ¨ä¸‹é¢å®šä¹‰çš„å…¶å®ƒæœ¯è¯­å¯ä»¥åœ¨ *The Authoritative Dictionary of IEEE Standards Terms* ç¬¬ä¸ƒç‰ˆ [B3].4 ä¸­æ‰¾åˆ°ã€‚
 
-¡¡¡¡**¹ØÁª** - association£ºÓÃÓÚ½¨Á¢Ò»¸öÉè±¸ÔÚÍøÂçÖÐµÄ³ÉÔ±¹ØÏµµÄ·þÎñ¡£
+ã€€ã€€**å…³è”** - associationï¼šç”¨äºŽå»ºç«‹ä¸€ä¸ªè®¾å¤‡åœ¨ç½‘ç»œä¸­çš„æˆå‘˜å…³ç³»çš„æœåŠ¡ã€‚
 
-¡¡¡¡**ÊÚÈ¨±êÇ©** - authentication tag£ºÓÃÓÚÑéÖ¤Ò»ÌõÏûÏ¢ÊÚÈ¨µÄÏûÏ¢¡£
+ã€€ã€€**æŽˆæƒæ ‡ç­¾** - authentication tagï¼šç”¨äºŽéªŒè¯ä¸€æ¡æ¶ˆæ¯æŽˆæƒçš„æ¶ˆæ¯ã€‚
 
-¡¡¡¡**ÐÅ±êÊ¹ÄÜ PAN ÍøÂç** - beacon-enabled personal area network£ºÔÚÒ»¸ö PAN ÍøÂçÖÐ£¬ËùÓÐµÄÐ­µ÷Æ÷½«·¢ËÍÖÜÆÚÐÔµÄÐÅ±ê£¬±ÈÈç£¬ÓÐÐÅ±êÃüÁî <0x0F¡£
+ã€€ã€€**ä¿¡æ ‡ä½¿èƒ½ PAN ç½‘ç»œ** - beacon-enabled personal area networkï¼šåœ¨ä¸€ä¸ª PAN ç½‘ç»œä¸­ï¼Œæ‰€æœ‰çš„åè°ƒå™¨å°†å‘é€å‘¨æœŸæ€§çš„ä¿¡æ ‡ï¼Œæ¯”å¦‚ï¼Œæœ‰ä¿¡æ ‡å‘½ä»¤ <0x0Fã€‚
 
-¡¡¡¡**ÏßÐÔµ÷Æµ** - chirp£ºÏßÐÔµ÷Æµ¡£
+ã€€ã€€**çº¿æ€§è°ƒé¢‘** - chirpï¼šçº¿æ€§è°ƒé¢‘ã€‚
 
-¡¡¡¡**¾ºÕù½ÓÈë½×¶Î** - contention access period £ºÐÅ±êÖ¡³öÏÖÖ®ºóµÄÒ»¶ÎÊ±¼ä£¬ÔÚÕâ¶ÎÊ±¼äÄÚ£¬Ï£Íû·¢ËÍÊý¾ÝµÄÉè±¸Í¨¹ýÊ¹ÓÃÊ±Ï¶ CSMA/CA »úÖÆ¾ºÕù·ÃÎÊÐÅµÀ¡£
+ã€€ã€€**ç«žäº‰æŽ¥å…¥é˜¶æ®µ** - contention access period ï¼šä¿¡æ ‡å¸§å‡ºçŽ°ä¹‹åŽçš„ä¸€æ®µæ—¶é—´ï¼Œåœ¨è¿™æ®µæ—¶é—´å†…ï¼Œå¸Œæœ›å‘é€æ•°æ®çš„è®¾å¤‡é€šè¿‡ä½¿ç”¨æ—¶éš™ CSMA/CA æœºåˆ¶ç«žäº‰è®¿é—®ä¿¡é“ã€‚
 
-¡¡¡¡**Ð­µ÷Æ÷** - coordinator£ºÓÐ´«µÝÐÅÏ¢ÄÜÁ¦µÄÍêÈ«¹¦ÄÜÉè±¸£¬Èç¹ûÒ»¸öÐ­µ÷Æ÷ÊÇ PAN ÍøÂçµÄÖ÷Òª¿ØÖÆÆ÷£¬¾Í±»³ÆÎª PAN Ð­µ÷
-Æ÷¡£
+ã€€ã€€**åè°ƒå™¨** - coordinatorï¼šæœ‰ä¼ é€’ä¿¡æ¯èƒ½åŠ›çš„å®Œå…¨åŠŸèƒ½è®¾å¤‡ï¼Œå¦‚æžœä¸€ä¸ªåè°ƒå™¨æ˜¯ PAN ç½‘ç»œçš„ä¸»è¦æŽ§åˆ¶å™¨ï¼Œå°±è¢«ç§°ä¸º PAN åè°ƒ
+å™¨ã€‚
 
-¡¡¡¡**Êý¾ÝÊÚÈ¨** - data authentication£º½ÓÊÕÏûÏ¢µÄÊµÌåÈ·ÈÏÏûÏ¢ÖÐÐÅÔ´µÄÕæÊµÐÔ£¬²¢ÇÒÔÚ´«Êä¹ý³ÌÖÐÃ»ÓÐ±»ÐÞ¸ÄµÄ¹ý³Ì¡£
+ã€€ã€€**æ•°æ®æŽˆæƒ** - data authenticationï¼šæŽ¥æ”¶æ¶ˆæ¯çš„å®žä½“ç¡®è®¤æ¶ˆæ¯ä¸­ä¿¡æºçš„çœŸå®žæ€§ï¼Œå¹¶ä¸”åœ¨ä¼ è¾“è¿‡ç¨‹ä¸­æ²¡æœ‰è¢«ä¿®æ”¹çš„è¿‡ç¨‹ã€‚
 
-¡¡¡¡**Êý¾Ý¿É¿¿ÐÔ** - data authenticity£ºÈ·±£ÐÅÔ´¡£
+ã€€ã€€**æ•°æ®å¯é æ€§** - data authenticityï¼šç¡®ä¿ä¿¡æºã€‚
 
-¡¡¡¡**Éè±¸** - device£ºÖ´ÐÐ IEEE 802.15.4 MAC ²ãºÍÎïÀí²ã½Ó¿ÚÁ¬½Óµ½ÎÞÏßÃ½½éµÄ²Ù×÷µÄÈÎÒ»ÊµÌå¡£ ¿ÉÄÜÊÇ¾«¼ò¹¦ÄÜÉè±¸(RFD)»òÈ«¹¦ÄÜÉè±¸(FFD)¡£
+ã€€ã€€**è®¾å¤‡** - deviceï¼šæ‰§è¡Œ IEEE 802.15.4 MAC å±‚å’Œç‰©ç†å±‚æŽ¥å£è¿žæŽ¥åˆ°æ— çº¿åª’ä»‹çš„æ“ä½œçš„ä»»ä¸€å®žä½“ã€‚ å¯èƒ½æ˜¯ç²¾ç®€åŠŸèƒ½è®¾å¤‡(RFD)æˆ–å…¨åŠŸèƒ½è®¾å¤‡(FFD)ã€‚
 
-¡¡¡¡**¼ÓÃÜ** - encryption£º°ÑÐÅÏ¢×ª»»ÎªÒ»ÖÖÐÂµÄ±íÏÖÐÎÊ½£¬Òò´ËÐèÒªÓÐÌØÈ¨µÄÐÅÏ¢È¥¸´Ô­×î³õµÄÐÅÏ¢¡£
+ã€€ã€€**åŠ å¯†** - encryptionï¼šæŠŠä¿¡æ¯è½¬æ¢ä¸ºä¸€ç§æ–°çš„è¡¨çŽ°å½¢å¼ï¼Œå› æ­¤éœ€è¦æœ‰ç‰¹æƒçš„ä¿¡æ¯åŽ»å¤åŽŸæœ€åˆçš„ä¿¡æ¯ã€‚
 
-¡¡¡¡**Ö¡** - frame£ºÀ´×Ô MAC ×Ó²ãÊµÌåµÄ±»Ò»ÆðÊµÊ±´«ÊäµÄ¾ÛºÏµÄ±ÈÌØµÄ¸ñÊ½¡£
+ã€€ã€€**å¸§** - frameï¼šæ¥è‡ª MAC å­å±‚å®žä½“çš„è¢«ä¸€èµ·å®žæ—¶ä¼ è¾“çš„èšåˆçš„æ¯”ç‰¹çš„æ ¼å¼ã€‚
 
-¡¡¡¡**ÍêÈ«¹¦ÄÜÉè±¸(FFD)** - full-function device£º
+ã€€ã€€**å®Œå…¨åŠŸèƒ½è®¾å¤‡(FFD)** - full-function deviceï¼š
 
-¡¡¡¡**×éÃÜÔ¿** - group key£ºÖ»±»Ò»×éÉè±¸ÖªµÀµÄÃÜÔ¿¡£
+ã€€ã€€**ç»„å¯†é’¥** - group keyï¼šåªè¢«ä¸€ç»„è®¾å¤‡çŸ¥é“çš„å¯†é’¥ã€‚
 
-¡¡¡¡**ÃÜÔ¿** - key£º¿ÉÄÜÓÃµ½µÄ±£ÃÜÐÅÏ¢£¬ÀýÈç£ºÓÃÓÚ±£»¤ÐÅÏ¢¶Ô²»ÄÜ·ÃÎÊÕâÐ©ÌØÈ¨ÐÅÏ¢µÄ×éÖ¯±©Â¶£¬ÒÔ¼°/»ò±»ËûÃÇÃ»ÓÐ¾õ²ìµÄÐÞ¸Ä¡£
+ã€€ã€€**å¯†é’¥** - keyï¼šå¯èƒ½ç”¨åˆ°çš„ä¿å¯†ä¿¡æ¯ï¼Œä¾‹å¦‚ï¼šç”¨äºŽä¿æŠ¤ä¿¡æ¯å¯¹ä¸èƒ½è®¿é—®è¿™äº›ç‰¹æƒä¿¡æ¯çš„ç»„ç»‡æš´éœ²ï¼Œä»¥åŠ/æˆ–è¢«ä»–ä»¬æ²¡æœ‰è§‰å¯Ÿçš„ä¿®æ”¹ã€‚
 
-¡¡¡¡**ÃÜÔ¿½¨Á¢** - key establishment£ºÁ½¸ö»ò¶à¸ö³ÉÔ±×é½¨Á¢Ò»¸öÃÜÔ¿µÄ¹ý³Ì¡£
+ã€€ã€€**å¯†é’¥å»ºç«‹** - key establishmentï¼šä¸¤ä¸ªæˆ–å¤šä¸ªæˆå‘˜ç»„å»ºç«‹ä¸€ä¸ªå¯†é’¥çš„è¿‡ç¨‹ã€‚
 
-¡¡¡¡**ÃÜÔ¿²ÄÁÏ** -  keying material£ºÃÜÔ¿Óë¹ØÁª°²È«ÐÅÏ¢µÄ×éºÏ(Èçµ±Ç°Öµ)¡£
+ã€€ã€€**å¯†é’¥ææ–™** -  keying materialï¼šå¯†é’¥ä¸Žå…³è”å®‰å…¨ä¿¡æ¯çš„ç»„åˆ(å¦‚å½“å‰å€¼)ã€‚
 
-¡¡¡¡**ÃÜÔ¿¹ÜÀí** -  key management£ºÏµÍ³ÉÏµÄÃÜÔ¿¹ØÏµµÄ½¨Á¢ÓëÎ¬»¤µÄ¹ý³ÌµÄ¼¯ºÏ¡£
+ã€€ã€€**å¯†é’¥ç®¡ç†** -  key managementï¼šç³»ç»Ÿä¸Šçš„å¯†é’¥å…³ç³»çš„å»ºç«‹ä¸Žç»´æŠ¤çš„è¿‡ç¨‹çš„é›†åˆã€‚
 
-¡¡¡¡**Á¬½ÓÃÜÔ¿** -  link key£ºÖ»ÔÚÁ½¸öÉè±¸Ö®¼ä¹²ÓÃµÄÒ»¸öÃÜÔ¿¡£
+ã€€ã€€**è¿žæŽ¥å¯†é’¥** -  link keyï¼šåªåœ¨ä¸¤ä¸ªè®¾å¤‡ä¹‹é—´å…±ç”¨çš„ä¸€ä¸ªå¯†é’¥ã€‚
 
-¡¡¡¡**ÒÆ¶¯Éè±¸** - mobile device£ºÊ¹ÓÃ¹ý³ÌÖÐ¿ÉÒÔÔÚÍøÂçÖÐ¸Ä±äÂß¼­Î»ÖÃµÄÉè±¸¡£
+ã€€ã€€**ç§»åŠ¨è®¾å¤‡** - mobile deviceï¼šä½¿ç”¨è¿‡ç¨‹ä¸­å¯ä»¥åœ¨ç½‘ç»œä¸­æ”¹å˜é€»è¾‘ä½ç½®çš„è®¾å¤‡ã€‚
 
-¡¡¡¡**·ÇÐÅ±êÊ¹ÄÜ PAN ÍøÂç** -  nonbeacon-enabled personal area network£ºÐ­µ÷Æ÷²»²úÉú¹æÔòµÄÐÅ±êÖ¡µÄPAN£¬ÀýÈçÐÅ±êÃüÁî = 0X0F¡£
+ã€€ã€€**éžä¿¡æ ‡ä½¿èƒ½ PAN ç½‘ç»œ** -  nonbeacon-enabled personal area networkï¼šåè°ƒå™¨ä¸äº§ç”Ÿè§„åˆ™çš„ä¿¡æ ‡å¸§çš„PANï¼Œä¾‹å¦‚ä¿¡æ ‡å‘½ä»¤ = 0X0Fã€‚
 
-¡¡¡¡**ÁÙÊ±Öµ** - nonce£ºÒ»¸ö²»ÖØ¸´µÄÖµ£¬±ÈÈçÒ»¸öµÝÔö¼ÆÊýÆ÷£¬Ò»¸ö×ã¹»³¤µÄËæ»ú×Ö·û´®£¬»òÕßÒ»¸öÊ±¼ä´Á¡£
+ã€€ã€€**ä¸´æ—¶å€¼** - nonceï¼šä¸€ä¸ªä¸é‡å¤çš„å€¼ï¼Œæ¯”å¦‚ä¸€ä¸ªé€’å¢žè®¡æ•°å™¨ï¼Œä¸€ä¸ªè¶³å¤Ÿé•¿çš„éšæœºå­—ç¬¦ä¸²ï¼Œæˆ–è€…ä¸€ä¸ªæ—¶é—´æˆ³ã€‚
 
-¡¡¡¡**¹ÂÁ¢Éè±¸** - orphaned device£ºÒÑ¾­ÓëËüËùÁ¬½ÓµÄÐ­µ÷Æ÷Ê§È¥ÁªÏµµÄÉè±¸¡£
+ã€€ã€€**å­¤ç«‹è®¾å¤‡** - orphaned deviceï¼šå·²ç»ä¸Žå®ƒæ‰€è¿žæŽ¥çš„åè°ƒå™¨å¤±åŽ»è”ç³»çš„è®¾å¤‡ã€‚
 
-¡¡¡¡**°ü** - packet£ºÍ¨¹ýÎïÀí½éÖÊÒ»ÆðÊµÊ±´«ÊäµÄ¸ñÊ½»¯µÄ¾ÛºÏ±ÈÌØ¡£
+ã€€ã€€**åŒ…** - packetï¼šé€šè¿‡ç‰©ç†ä»‹è´¨ä¸€èµ·å®žæ—¶ä¼ è¾“çš„æ ¼å¼åŒ–çš„èšåˆæ¯”ç‰¹ã€‚
 
-¡¡¡¡**¸ºÔØÊý¾Ý** -  payload data£º±»´«ÊäµÄÊý¾ÝÐÅÏ¢ÄÚÈÝ¡£
+ã€€ã€€**è´Ÿè½½æ•°æ®** -  payload dataï¼šè¢«ä¼ è¾“çš„æ•°æ®ä¿¡æ¯å†…å®¹ã€‚
 
-¡¡¡¡**PAN Ð­µ÷Æ÷** - personal area network (PAN) coordinator£º¸öÓòÍøÖÐµÄÖ÷Òª¿ØÖÆÆ÷¡£ IEEE 802.15.4 ÍøÂçÖ»ÓÐÒ»¸öPAN Ð­µ÷Æ÷¡£
+ã€€ã€€**PAN åè°ƒå™¨** - personal area network (PAN) coordinatorï¼šä¸ªåŸŸç½‘ä¸­çš„ä¸»è¦æŽ§åˆ¶å™¨ã€‚ IEEE 802.15.4 ç½‘ç»œåªæœ‰ä¸€ä¸ªPAN åè°ƒå™¨ã€‚
 
-¡¡¡¡**´¿ÎÄ±¾** - plain text£ºÒë³öÃÜÂëÐÅÏ¢µÄ×Ö·û´®¡£
+ã€€ã€€**çº¯æ–‡æœ¬** - plain textï¼šè¯‘å‡ºå¯†ç ä¿¡æ¯çš„å­—ç¬¦ä¸²ã€‚
 
-¡¡¡¡**²â¾à¹¦ÄÜÉè±¸** - ranging-capable device£ºÖ§³Ö²â¾à¹¦ÄÜµÄÉè±¸¡£
+ã€€ã€€**æµ‹è·åŠŸèƒ½è®¾å¤‡** - ranging-capable deviceï¼šæ”¯æŒæµ‹è·åŠŸèƒ½çš„è®¾å¤‡ã€‚
 
-¡¡¡¡**¾«¼ò¹¦ÄÜÉè±¸(RFD)** - reduced-function device £º²»ÄÜ×÷ÎªÒ»¸öÐ­µ÷Æ÷¹¤×÷µÄÉè±¸¡£
+ã€€ã€€**ç²¾ç®€åŠŸèƒ½è®¾å¤‡(RFD)** - reduced-function device ï¼šä¸èƒ½ä½œä¸ºä¸€ä¸ªåè°ƒå™¨å·¥ä½œçš„è®¾å¤‡ã€‚
 
-¡¡¡¡**¶Ô³ÆÃÜÔ¿** - symmetric key£º¹²ÓÃÔÚÁ½¸ö»ò¶à¸ö×éÖ¯Ö®¼äµÄÒ»×éÃÜÔ¿£¬ÓÃÓÚ¼ÓÃÜ¼¼Êõ/½âÃÜ¼¼Êõ»òºÏ·¨±£»¤/ÍêÕûÐÔÈ·ÈÏ£¬ÊÓÓÃÍ¾¶ø¶¨¡£
+ã€€ã€€**å¯¹ç§°å¯†é’¥** - symmetric keyï¼šå…±ç”¨åœ¨ä¸¤ä¸ªæˆ–å¤šä¸ªç»„ç»‡ä¹‹é—´çš„ä¸€ç»„å¯†é’¥ï¼Œç”¨äºŽåŠ å¯†æŠ€æœ¯/è§£å¯†æŠ€æœ¯æˆ–åˆæ³•ä¿æŠ¤/å®Œæ•´æ€§ç¡®è®¤ï¼Œè§†ç”¨é€”è€Œå®šã€‚
 
-¡¡¡¡**ÊÂÎñ** - transaction£ºÁ½¸ö¶ÔµÈµÄ½éÖÊ·ÃÎÊ¿ØÖÆÊµÌåÃ½½éµÄÏà¹ØµÄ¡¢Á¬ÐøµÄÖ¡½»»»£¬ÒªÇó MAC ÃüÁîÓëÊý¾ÝÖ¡µÄ³É¹¦´«Êä¡£
+ã€€ã€€**äº‹åŠ¡** - transactionï¼šä¸¤ä¸ªå¯¹ç­‰çš„ä»‹è´¨è®¿é—®æŽ§åˆ¶å®žä½“åª’ä»‹çš„ç›¸å…³çš„ã€è¿žç»­çš„å¸§äº¤æ¢ï¼Œè¦æ±‚ MAC å‘½ä»¤ä¸Žæ•°æ®å¸§çš„æˆåŠŸä¼ è¾“ã€‚
