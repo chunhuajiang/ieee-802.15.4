@@ -11,6 +11,11 @@
 - [Zephyr OS 学习笔记](https://github.com/tidyjiang8/zephyr-inside/blob/master/SUMMARY.md)
 - [Zephyr OS 官网](http://zephyrproject.org/)
 
+## 在线阅读
+
+- GitBook: [https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4](https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4)
+- GitHub: [https://github.com/tidyjiang8/ieee-802.15.4/blob/v2011/SUMMARY.md](https://github.com/tidyjiang8/ieee-802.15.4/blob/v2011/SUMMARY.md)
+
 ## 贡献代码
 
 请参考: [CONTRIBUTION.md](CONTRIBUTION.md)
