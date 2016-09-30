@@ -20,8 +20,22 @@
 　　“*Coexistence analysis of IEEE Std 802.15.4 with other IEEE standards and proposed standards*” 给出了关于各种 IEEE 802.15.4 PHY 与其它无线系统的共存问题的讨论。
 
 ## 4.4.2 MAC 子层
-　　MAC 子层也提供了两种服务：MAC 数据服务和 MAC 管理服务，它们都通过 MAC 子层管理实体的访问接入点(CLME-SAP)进行服务。MAC 数据服务使 MAC 子层能通过 PHY 数据服务传输和接收 MAC 协议数据单元(MPDU)。
+　　MAC 子层也提供了两种服务：MAC 数据服务和 MAC 管理服务，它们都通过 MAC 子层管理实体的访问接入点(MLME-SAP)进行服务。MAC 数据服务使 MAC 子层能通过 PHY 数据服务传输和接收 MAC 协议数据单元(MPDU)。
 
 　　MAC 子层提供的功能包括信标管理、信道访问、GTS 管理、帧校验、帧确认、关联和解关联。此外，MAC 子层还为应用提供辅助的安全机制。
 
 　　第 5 章和第 6 章包含 MAC 子层的相关规范。
+
+---
+
+　　**本节专有名词**
+
+ 简写 | 英文全称 | 中文全称
+ ---- | ---- | ----
+ RF  | radio frequency | 射频
+ PPDU  | PHY protocol data units | 物理层协议数据单元
+ MPDU |MAC protocol data units| MAC 协议数据单元
+ CCA |clear channel assessment| 信道忙闲评估/检测
+ MLME |MAC sublayer management entity| MAC 子层管理实体
+ SAP |service access point| 服务接入点
+ MLME-SAP|MLME-SAP| MAC 子层管理实体的服务接入点
