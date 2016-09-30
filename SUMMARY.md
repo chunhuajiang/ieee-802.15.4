@@ -2,17 +2,23 @@
 
 * [1. 概述](src/1/overview.md)
 * [2. 参考文献](src/2/refer.md)
-* [3. 定义、缩略语和简写]
+* [3. 定义、缩略语和简写](src/3/definitions.md)
    * [3.1 定义](src/3/definitions.md)
    * [3.2 缩略语和简写](src/3/acronyms_abbr.md)
-* [4. 通用描述]
+* [4. 通用描述](src/4/general.md)
    * [4.1 通用](src/4/general.md)
    * [4.2 IEEE 802.15.4的组件](src/4/component.md)
    * [4.3 网络拓扑](src/4/topology.md)
    * [4.4 架构](src/4/architecture.md)
-   * [4.5 功能概述](src/4/functional_overview.md)
+   * [4.5 功能概述](src/4/4.5/4.5.1_superframe_structure.md)
+      * [4.5.1 超帧结构](src/4/4.5/4.5.1_superframe_structure.md)
+      * [4.5.2 数据传输模型](src/4/4.5/4.5.2_data_transfer_model.md)
+      * [4.5.3 帧结构](src/4/4.5/4.5.3_frame_struct.md)
+      * [4.5.4 提高传输可靠性](src/4/4.5/4.5.4_reliable_trans.md)
+      * [4.5.5 电源消耗考虑](src/4/4.5/4.5.5_power_consumption.md)
+      * [4.5.6 安全](src/4/4.5/4.5.6_security.md)
    * [4.6 原语的概念](src/4/primitives.md)
-* [5. MAC 协议]
+* [5. MAC 协议](src/5/description.md)
    * [5.1 MAC 功能描述](src/5/description.md)
       * [5.1.1 信道访问](src/5/5.1/channel_acess.md)
 	  * [5.1.2 启动和维护 PAN 网络](src/5/5.1/start_maintain_pan.md)
@@ -24,7 +30,7 @@
 	  * [5.1.8 搜索](src/5/5.1/ranging.md)
    * [5.2 MAC 帧格式](src/5/frame_format.md)
    * [5.3 MAC 命令帧](src/5/command_frame.md)
-* [6. MAC 服务]
+* [6. MAC 服务](src/6/overview.md)
    * [6.1 概述](src/6/overview.md)
    * [6.2 MAC 管理服务](src/6/manage_service.md)
    * [6.3 MAC 数据服务](src/6/data_service.md)

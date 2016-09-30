@@ -8,9 +8,9 @@
 - GitBook: [https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4](https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4)
 - GitHub: [https://github.com/tidyjiang8/ieee-802.15.4/blob/v2011/SUMMARY.md](https://github.com/tidyjiang8/ieee-802.15.4/blob/v2011/SUMMARY.md)
 
-## 参与翻译
+## 翻译&纠错
 
-请参考: [CONTRIBUTION.md](./CONTRIBUTION.md)
+请参考: [CONTRIBUTION.md](https://github.com/tidyjiang8/ieee-802.15.4/blob/v2011/CONTRIBUTION.md)
 
 ## 标准的实现
 
