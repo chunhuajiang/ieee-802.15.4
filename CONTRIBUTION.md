@@ -9,7 +9,7 @@
 - 【步骤3】新建一个分支(假设分支名为`new`)，并切换到该分支
 - 【步骤4】在你的`new`分支上修改文章，然后分别执行 git add、git commit 将改动提交到本地库，并记住此次提交的 commit id(假设此次提交生成的commit id 为 `9057042`)
 - 【步骤5】切换回`master`分支，先将你本地仓库的`master`分支与我的仓库同步，依次执行：
-  - `git remote add tidyjiang8 https://github.com/tidyjiang8/ieee-802.15.4-2011.git`(这个步骤只需要执行一次，今后再修改文章时不用执行了)
+  - `git remote add tidyjiang8 https://github.com/tidyjiang8/ieee-802.15.4.git`(这个步骤只需要执行一次，今后再修改文章时不用执行了)
   - `git remote update`
   - `git merge tidyjiang8`
 - 【步骤6】将你在你的新分支上修改的东西合并到 master 分支
