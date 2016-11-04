@@ -32,7 +32,7 @@
          * [5.1.2.4 产生信标](src/5/5.1/5.1.2.4_beacon_generation.md)
       * [5.1.3 连接和断开连接](src/5/5.1/5.1.3_assocation_disassociation.md)
 	  * [5.1.4 同步](src/5/5.1/5.1.4_sync.md)
-	  * [5.1.5 业务处理](src/5/5.1.5_transcation_handle.md)
+	  * [5.1.5 事务处理](src/5/5.1/5.1.5_transcation_handle.md)
 	  * [5.1.6 传输、接收和确认](src/5/5.1/5.1.6_trans_recep_ack.md)
 	  * [5.1.7 GTS 分配和管理](src/5/5.1/5.1.7_gts.md)
 	  * [5.1.8 搜索](src/5/5.1/5.1.8_ranging.md)
